@@ -1,0 +1,398 @@
+"company_id" "name" "country" "category" "sales" "profits" "assets" "marketvalue" "level" "jobfamily" "years_professional_experience" "years_in_position" "sex" "total_compensation" "variable_compensation" "base_salary"
+"1" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Senior" "IT" 35 23 "Male" 134885 26783 108102
+"2" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Expert" "Sales" 9 8 "Male" 100522 17880 82642
+"3" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Expert" "IT" 18 10 "Male" 83850 6417 77433
+"4" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Junior" "Sales" 3 3 "Male" 89942 23410 66532
+"5" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Expert" "Sales" 8 8 "Male" 100000 21045 78955
+"6" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Senior" "Sales" 23 10 "Male" 145200 31059 114141
+"7" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Expert" "IT" 41 33 "Male" 88600 5531 83069
+"8" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Expert" "IT" 45 39 "Male" 70700 6258 64442
+"9" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Senior" "Sales" 32 25 "Male" 128464 44751 83713
+"10" 34 "Deutsche Bank Group" "Germany" "Diversified financials" 58.85 1.53 792.49 50.23 "Junior" "IT" 6 3 "Male" 77081 8350 68731
+"11" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "Sales" 41 31 "Male" 125196 17954 107242
+"12" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "Sales" 26 19 "Male" 193000 20548 172452
+"13" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "IT" 30 29 "Male" 148500 21084 127416
+"14" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "Sales" 21 21 "Male" 118971 24930 94041
+"15" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Expert" "Sales" 48 53 "Male" 90000 24897 65103
+"16" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "IT" 36 19 "Female" 117555 11654 105901
+"17" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Junior" "IT" 4 1 "Male" 73000 5921 67079
+"18" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "IT" 14 9 "Male" 108100 9177 98923
+"19" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "Sales" 56 49 "Male" 186960 35725 151235
+"20" 71 "Volkswagen Group" "Germany" "Consumer durables" 91.33 2.71 112.87 17.42 "Senior" "IT" 33 18 "Male" 186023 20424 165599
+"21" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Junior" "Sales" 5 3 "Male" 82379 13604 68775
+"22" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "Sales" 22 12 "Male" 101000 34198 66802
+"23" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "IT" 31 28 "Male" 113543 7130 106413
+"24" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "Sales" 27 27 "Male" 112696 18098 94598
+"25" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "Sales" 26 22 "Male" 150000 14872 135128
+"26" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Expert" "Sales" 13 6 "Male" 107150 15583 91567
+"27" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "IT" 45 45 "Male" 107550 10762 96788
+"28" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "IT" 39 36 "Male" 88600 7751 80849
+"29" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "Sales" 37 15 "Male" 137317 24152 113165
+"30" 74 "BMW-Bayerische Motor" "Germany" "Consumer durables" 52.23 2.12 58.11 29.03 "Senior" "IT" 38 38 "Male" 150680 7382 143298
+"31" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "Sales" 45 45 "Male" 147765 15614 132151
+"32" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "Sales" 40 28 "Male" 98193 22109 76084
+"33" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "Sales" 15 14 "Male" 132825 19056 113769
+"34" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "IT" 24 22 "Male" 96614 9982 86632
+"35" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Junior" "Sales" 3 3 "Male" 89942 14696 75246
+"36" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "Sales" 28 17 "Male" 160400 20757 139643
+"37" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "IT" 31 30 "Male" 122875 8179 114696
+"38" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "IT" 39 38 "Male" 136500 14133 122367
+"39" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "Sales" 16 15 "Male" 135027 23295 111732
+"40" 123 "Bayer Group" "Germany" "Chemicals" 30.42 1.11 42.78 21.9 "Senior" "IT" 28 14 "Female" 109954 6658 103296
+"41" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Junior" "Sales" 11 0 "Male" 77000 13251 63749
+"42" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "Sales" 35 31 "Male" 99418 18803 80615
+"43" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Expert" "IT" 11 8 "Male" 82099 8391 73708
+"44" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "Sales" 28 28 "Male" 119015 21535 97480
+"45" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "Sales" 23 23 "Male" 101000 16075 84925
+"46" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "Sales" 34 20 "Male" 129600 17432 112168
+"47" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "IT" 31 26 "Male" 121200 12664 108536
+"48" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "IT" 27 16 "Male" 127100 12066 115034
+"49" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Senior" "Sales" 13 11 "Male" 106231 18817 87414
+"50" 218 "Metro AG" "Germany" "Food markets" 54.12 0.47 22.94 14.38 "Expert" "IT" 11 8 "Male" 104121 8074 96047
+"51" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "IT" 31 26 "Male" 89565 6182 83383
+"52" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Junior" "Sales" 8 3 "Male" 75044 11907 63137
+"53" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "Sales" 30 14 "Male" 102235 11912 90323
+"54" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "IT" 17 14 "Male" 105668 7858 97810
+"55" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Expert" "Sales" 10 7 "Male" 95436 23750 71686
+"56" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "Sales" 16 11 "Male" 145350 31930 113420
+"57" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "IT" 28 7 "Female" 116450 10208 106242
+"58" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Expert" "IT" 11 1 "Male" 104800 8409 96391
+"59" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "Sales" 18 10 "Female" 105450 20591 84859
+"60" 350 "Allianz Worldwide" "Germany" "Insurance" 96.88 -1.23 851.24 48.07 "Senior" "IT" 23 20 "Male" 110515 9649 100866
+"61" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "Sales" 12 3 "Male" 117150 17651 99499
+"62" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Expert" "Sales" 12 11 "Male" 103760 18473 85287
+"63" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "Sales" 38 38 "Male" 166024 34397 131627
+"64" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Expert" "IT" 10 8 "Female" 77500 4363 73137
+"65" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "Sales" 19 19 "Male" 151575 25617 125958
+"66" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Junior" "Sales" 4 3 "Male" 91000 16853 74147
+"67" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "IT" 29 7 "Male" 204000 24206 179794
+"68" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "IT" 29 27 "Male" 150500 10804 139696
+"69" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "Sales" 37 37 "Male" 151650 30661 120989
+"70" 363 "Erste Bank" "Austria" "Banking" 7.5 0.27 126.93 8.12 "Senior" "IT" 15 10 "Male" 115435 6356 109079
+"71" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "IT" 37 23 "Male" 124750 8138 116612
+"72" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Expert" "Sales" 9 8 "Male" 90215 23443 66772
+"73" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Expert" "Sales" 17 12 "Male" 95611 15913 79698
+"74" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "IT" 20 18 "Male" 136000 11643 124357
+"75" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Expert" "Sales" 17 6 "Male" 105000 22760 82240
+"76" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "Sales" 26 19 "Male" 126200 18511 107689
+"77" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "IT" 31 12 "Male" 132000 7675 124325
+"78" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "IT" 32 28 "Male" 168500 13329 155171
+"79" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "Sales" 49 60 "Male" 192253 64058 128195
+"80" 368 "Holcim" "Switzerland" "Construction" 9.42 0.37 18.62 10.27 "Senior" "IT" 33 31 "Male" 134690 8160 126530
+"81" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Expert" "IT" 13 8 "Female" 74830 5955 68875
+"82" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Expert" "Sales" 11 11 "Female" 103613 9885 93728
+"83" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "Sales" 16 5 "Male" 153303 33111 120192
+"84" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Expert" "IT" 15 10 "Male" 81500 9115 72385
+"85" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "Sales" 11 11 "Male" 142467 42769 99698
+"86" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "Sales" 13 11 "Male" 119500 20293 99207
+"87" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Junior" "IT" 9 3 "Male" 73800 5915 67885
+"88" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "IT" 17 11 "Male" 148800 11401 137399
+"89" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "Sales" 35 23 "Male" 98053 17659 80394
+"90" 405 "Zurich Financial Services" "Switzerland" "Insurance" 47.46 -3.96 263.85 21.83 "Senior" "IT" 28 26 "Male" 103649 10363 93286
+"91" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "Sales" 12 8 "Male" 118223 30736 87487
+"92" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "Sales" 17 17 "Female" 111512 20919 90593
+"93" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Expert" "IT" 10 8 "Male" 82600 11201 71399
+"94" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Junior" "Sales" 4 4 "Male" 92000 20511 71489
+"95" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "Sales" 33 30 "Male" 134000 30464 103536
+"96" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "IT" 38 35 "Male" 87800 6920 80880
+"97" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "IT" 31 31 "Male" 126000 16639 109361
+"98" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "IT" 28 13 "Male" 170500 17233 153267
+"99" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Senior" "Sales" 17 17 "Female" 124312 21402 102910
+"100" 431 "HVB-HypoVereinsbank" "Germany" "Banking" 40.52 -0.87 705.36 14.49 "Junior" "IT" 8 3 "Male" 75996 15923 60073
+"101" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "IT" 21 8 "Male" 106294 10659 95635
+"102" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Junior" "Sales" 4 3 "Male" 68404 6410 61994
+"103" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "Sales" 20 14 "Female" 127512 25791 101721
+"104" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "IT" 19 11 "Male" 106608 12669 93939
+"105" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "Sales" 18 5 "Male" 141136 27665 113471
+"106" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "Sales" 21 21 "Male" 170000 31101 138899
+"107" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "IT" 32 30 "Male" 92550 7652 84898
+"108" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "IT" 49 43 "Male" 72300 10489 61811
+"109" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Senior" "Sales" 13 12 "Male" 145000 40525 104475
+"110" 560 "Linde" "Germany" "Capital goods" 9.17 0.25 12.67 6.61 "Junior" "IT" 4 1 "Male" 74856 5175 69681
+"111" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Junior" "Sales" 1 1 "Male" 77700 13286 64414
+"112" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Senior" "Sales" 12 11 "Male" 108875 14417 94458
+"113" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Junior" "Sales" 10 5 "Female" 97032 34909 62123
+"114" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Junior" "IT" 4 2 "Male" 73000 6271 66729
+"115" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Expert" "Sales" 8 6 "Male" 101210 14118 87092
+"116" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Senior" "Sales" 18 18 "Male" 120000 20879 99121
+"117" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Senior" "IT" 30 23 "Male" 91100 5526 85574
+"118" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Expert" "IT" 49 49 "Male" 81800 11626 70174
+"119" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Senior" "Sales" 30 31 "Male" 162221 20859 141362
+"120" 572 "Vattenfall Europe" "Germany" "Utilities" 9.31 0.2 17.55 5.78 "Expert" "IT" 20 17 "Male" 81285 4575 76710
+"121" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Junior" "Sales" 7 2 "Male" 79916 6410 73506
+"122" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "Sales" 17 2 "Male" 126320 23762 102558
+"123" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "IT" 40 31 "Male" 131205 11830 119375
+"124" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "Sales" 36 26 "Female" 144651 29653 114998
+"125" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "Sales" 18 10 "Male" 107500 34663 72837
+"126" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Junior" "IT" 3 1 "Male" 63900 7567 56333
+"127" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "IT" 36 30 "Male" 134800 7851 126949
+"128" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "IT" 46 44 "Male" 144050 12333 131717
+"129" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Senior" "Sales" 31 31 "Male" 162150 31375 130775
+"130" 593 "Syngenta" "Switzerland" "Chemicals" 7.08 0.29 9.86 7.32 "Expert" "IT" 8 5 "Male" 86895 7110 79785
+"131" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Junior" "Sales" 5 0 "Female" 77000 28521 48479
+"132" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "Sales" 28 23 "Male" 113398 18507 94891
+"133" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "IT" 37 37 "Male" 104279 8290 95989
+"134" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "Sales" 21 9 "Male" 111168 25169 85999
+"135" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "Sales" 43 22 "Male" 133700 25436 108264
+"136" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "IT" 29 27 "Female" 91000 6794 84206
+"137" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "IT" 13 7 "Male" 103700 10340 93360
+"138" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Junior" "IT" 5 0 "Male" 74000 10133 63867
+"139" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "Sales" 39 33 "Male" 128250 40998 87252
+"140" 633 "Merck" "Germany" "Drugs & biotechnology" 7.85 0.21 7.69 9.06 "Senior" "IT" 29 27 "Male" 139219 12539 126680
+"141" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Junior" "Sales" 4 3 "Male" 79750 20013 59737
+"142" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Expert" "Sales" 23 23 "Male" 93418 11557 81861
+"143" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "Sales" 43 28 "Male" 150743 33093 117650
+"144" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Junior" "IT" 5 3 "Female" 73500 9182 64318
+"145" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Expert" "Sales" 6 6 "Male" 95408 8707 86701
+"146" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Junior" "Sales" 4 4 "Male" 92000 14763 77237
+"147" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "IT" 25 25 "Male" 114000 6203 107797
+"148" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "IT" 12 6 "Male" 93000 6567 86433
+"149" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "IT" 22 6 "Male" 146800 12293 134507
+"150" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "Sales" 22 20 "Male" 138000 35999 102001
+"151" 700 "Swiss Life Holding" "Switzerland" "Insurance" 15.75 -1.23 113.34 4.26 "Senior" "IT" 33 30 "Male" 103106 12313 90793
+"152" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Senior" "Sales" 19 20 "Male" 101000 30681 70319
+"153" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Expert" "Sales" 14 5 "Male" 83900 10731 73169
+"154" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Senior" "Sales" 21 20 "Male" 123683 20530 103153
+"155" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Junior" "IT" 3 1 "Female" 72500 3759 68741
+"156" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Senior" "Sales" 37 24 "Male" 93164 14148 79016
+"157" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Senior" "Sales" 39 39 "Male" 111350 18180 93170
+"158" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Senior" "IT" 39 39 "Male" 109000 7641 101359
+"159" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Junior" "IT" 8 5 "Male" 74000 8231 65769
+"160" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Expert" "Sales" 10 10 "Male" 99247 13465 85782
+"161" 720 "OMV Group" "Austria" "Oil & gas operations" 7.44 0.33 6.3 4.45 "Expert" "IT" 10 1 "Male" 108413 8343 100070
+"162" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "IT" 36 31 "Male" 102580 14839 87741
+"163" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Expert" "Sales" 9 8 "Male" 90304 21089 69215
+"164" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "Sales" 41 26 "Male" 106689 17663 89026
+"165" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Expert" "IT" 10 7 "Male" 73877 7107 66770
+"166" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Expert" "Sales" 13 9 "Male" 100944 16234 84710
+"167" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "Sales" 15 11 "Male" 146000 35408 110592
+"168" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Expert" "IT" 12 8 "Male" 83000 4530 78470
+"169" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "IT" 19 7 "Male" 107300 11956 95344
+"170" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "Sales" 33 19 "Male" 145098 23196 121902
+"171" 747 "Beiersdorf" "Germany" "Household & personal products" 5.88 0.38 3.44 9.94 "Senior" "IT" 12 7 "Male" 109707 9496 100211
+"172" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "Sales" 21 20 "Male" 119250 11904 107346
+"173" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "Sales" 23 19 "Female" 151768 30329 121439
+"174" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "Sales" 37 37 "Male" 152708 51796 100912
+"175" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "IT" 54 49 "Male" 78162 6344 71818
+"176" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Junior" "Sales" 1 0 "Male" 88795 12322 76473
+"177" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "Sales" 17 17 "Male" 152500 30476 122024
+"178" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "IT" 38 37 "Male" 102600 10109 92491
+"179" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "IT" 37 27 "Male" 103600 9105 94495
+"180" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Senior" "Sales" 24 23 "Male" 104428 33828 70600
+"181" 926 "Bankgesellschaft Berlin" "Germany" "Banking" 9.43 -0.74 182.69 2.3 "Junior" "IT" 11 4 "Male" 78785 7107 71678
+"182" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "IT" 34 30 "Male" 93904 8069 85835
+"183" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Junior" "Sales" 3 2 "Male" 75243 14196 61047
+"184" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "Sales" 42 25 "Male" 133217 21446 111771
+"185" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "IT" 21 18 "Male" 152664 17075 135589
+"186" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "Sales" 27 14 "Male" 147349 38515 108834
+"187" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Expert" "Sales" 29 22 "Male" 105350 16821 88529
+"188" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "IT" 22 22 "Male" 140300 16042 124258
+"189" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "IT" 40 36 "Male" 97150 6714 90436
+"190" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Expert" "Sales" 19 6 "Female" 104542 16946 87596
+"191" 1165 "Synthes-Stratec" "Switzerland" "Health care equipment & services" 1.13 0.28 1.53 11.54 "Senior" "IT" 30 26 "Male" 136660 13513 123147
+"192" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "Sales" 20 18 "Male" 104800 13931 90869
+"193" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "Sales" 16 9 "Male" 106639 16116 90523
+"194" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Expert" "Sales" 10 7 "Male" 105631 21364 84267
+"195" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "IT" 56 57 "Male" 76840 7024 69816
+"196" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Junior" "Sales" 5 5 "Male" 91227 13269 77958
+"197" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "Sales" 20 20 "Male" 163200 27039 136161
+"198" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "IT" 28 23 "Male" 128800 9518 119282
+"199" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Junior" "IT" 2 0 "Male" 85000 4346 80654
+"200" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "Sales" 23 15 "Male" 124714 19180 105534
+"201" 1178 "Hypo Real Estate Holding" "Germany" "Diversified financials" 0.87 0.02 183.47 3.97 "Senior" "IT" 43 40 "Male" 101036 10159 90877
+"202" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Expert" "Sales" 6 6 "Male" 97000 24258 72742
+"203" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "Sales" 19 19 "Male" 94384 17694 76690
+"204" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Junior" "Sales" 6 2 "Male" 88825 17902 70923
+"205" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "IT" 24 22 "Male" 97262 9639 87623
+"206" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "Sales" 26 19 "Male" 176500 35145 141355
+"207" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Junior" "Sales" 4 4 "Male" 92700 14796 77904
+"208" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "IT" 19 6 "Male" 96200 5828 90372
+"209" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "IT" 24 18 "Male" 107100 5483 101617
+"210" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "Sales" 46 45 "Male" 67559 15465 52094
+"211" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "IT" 49 40 "Male" 88709 6944 81765
+"212" 1184 "Verbund-Austrian Electric" "Austria" "Utilities" 2.18 0.16 7.27 4.28 "Senior" "IT" 25 15 "Male" 95329 8607 86722
+"213" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Junior" "Sales" 4 2 "Female" 80225 16621 63604
+"214" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "Sales" 35 34 "Male" 92391 18333 74058
+"215" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Junior" "IT" 3 1 "Male" 72500 4138 68362
+"216" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Junior" "Sales" 4 4 "Male" 92000 10356 81644
+"217" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "Sales" 22 9 "Male" 180000 36198 143802
+"218" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "IT" 39 38 "Male" 133900 18284 115616
+"219" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "IT" 47 44 "Male" 89650 6846 82804
+"220" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "IT" 31 28 "Male" 122500 11147 111353
+"221" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "Sales" 41 27 "Male" 142023 30549 111474
+"222" 1187 "mg technologies" "Germany" "Chemicals" 8.54 -0.13 6.45 3.18 "Senior" "IT" 15 9 "Male" 114330 9495 104835
+"223" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Junior" "Sales" 7 2 "Male" 79800 11259 68541
+"224" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "Sales" 28 28 "Male" 126621 17863 108758
+"225" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Expert" "Sales" 9 7 "Male" 107008 17545 89463
+"226" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "IT" 32 30 "Male" 113278 14967 98311
+"227" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "Sales" 18 19 "Male" 130664 33295 97369
+"228" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "Sales" 35 33 "Male" 162200 23551 138649
+"229" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "IT" 17 11 "Female" 90450 11115 79335
+"230" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Expert" "IT" 8 6 "Male" 88650 9968 78682
+"231" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "Sales" 24 15 "Female" 161101 30036 131065
+"232" 1228 "Rheinmetall" "Germany" "Conglomerates" 4.8 0.26 4.22 1.31 "Senior" "IT" 30 30 "Male" 138771 19310 119461
+"233" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "Sales" 13 9 "Male" 117256 23212 94044
+"234" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "Sales" 45 45 "Male" 146856 22615 124241
+"235" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "IT" 20 16 "Male" 112429 10269 102160
+"236" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Junior" "Sales" 4 3 "Male" 95079 27603 67476
+"237" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Expert" "Sales" 28 28 "Male" 106300 13692 92608
+"238" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Expert" "IT" 9 7 "Male" 70000 6431 63569
+"239" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "IT" 43 43 "Male" 143940 12010 131930
+"240" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "IT" 33 31 "Male" 111350 10581 100769
+"241" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "Sales" 32 35 "Male" 150376 44654 105722
+"242" 1276 "Julius Baer Holding" "Switzerland" "Diversified financials" 1.07 0.13 8.99 4.22 "Senior" "IT" 44 44 "Male" 105000 6907 98093
+"243" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Expert" "Sales" 12 8 "Male" 119800 22971 96829
+"244" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Junior" "Sales" 1 1 "Male" 70768 15162 55606
+"245" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "Sales" 25 25 "Male" 172272 31814 140458
+"246" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Junior" "IT" 2 0 "Female" 72500 8433 64067
+"247" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "Sales" 16 16 "Male" 167284 29003 138281
+"248" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "Sales" 21 2 "Male" 96545 28943 67602
+"249" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "IT" 19 23 "Male" 84273 7816 76457
+"250" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "IT" 45 43 "Male" 155865 20611 135254
+"251" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Expert" "Sales" 13 11 "Male" 126431 24150 102281
+"252" 1365 "Clariant" "Switzerland" "Chemicals" 6.39 -0.47 5.91 2.62 "Senior" "IT" 23 15 "Female" 109646 9369 100277
+"253" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Junior" "Sales" 4 2 "Male" 80225 13269 66956
+"254" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "Sales" 29 19 "Male" 100131 16614 83517
+"255" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Expert" "IT" 19 16 "Male" 82100 13215 68885
+"256" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "Sales" 14 12 "Male" 128148 25877 102271
+"257" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "Sales" 25 19 "Male" 153750 23923 129827
+"258" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "IT" 16 11 "Male" 88175 10258 77917
+"259" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "IT" 14 10 "Male" 104350 13366 90984
+"260" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Junior" "IT" 7 4 "Male" 74500 8057 66443
+"261" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "Sales" 15 10 "Male" 107986 7847 100139
+"262" 1408 "Wiener Stadtische" "Austria" "Insurance" 3.58 -0.02 11.71 2.39 "Senior" "IT" 27 21 "Male" 125192 7903 117289
+"263" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Senior" "Sales" 19 18 "Male" 139750 26525 113225
+"264" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Expert" "Sales" 9 9 "Male" 100938 17485 83453
+"265" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Junior" "Sales" 3 1 "Male" 86100 9532 76568
+"266" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Senior" "IT" 39 36 "Male" 117515 13956 103559
+"267" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Expert" "Sales" 12 18 "Male" 113341 12624 100717
+"268" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Expert" "Sales" 9 7 "Male" 113600 19129 94471
+"269" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Junior" "IT" 8 3 "Male" 69700 6381 63319
+"270" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Junior" "IT" 8 4 "Male" 74000 9543 64457
+"271" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Senior" "IT" 29 19 "Male" 94350 12768 81582
+"272" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Senior" "Sales" 38 38 "Male" 93519 16961 76558
+"273" 1477 "Nurnberger Beteiligungs" "Germany" "Insurance" 3 -0.03 15.97 0.93 "Senior" "IT" 40 19 "Male" 166605 19338 147267
+"274" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "IT" 38 34 "Male" 103450 10042 93408
+"275" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "Sales" 23 21 "Male" 117704 25254 92450
+"276" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Junior" "Sales" 4 0 "Male" 84000 13135 70865
+"277" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "IT" 35 25 "Male" 168635 19142 149493
+"278" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "Sales" 20 20 "Male" 134185 18845 115340
+"279" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "Sales" 15 7 "Male" 128400 19758 108642
+"280" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "IT" 20 8 "Male" 102000 10627 91373
+"281" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "IT" 33 7 "Male" 174500 19749 154751
+"282" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "Sales" 23 23 "Male" 134778 28171 106607
+"283" 1483 "SGS" "Switzerland" "Business services & supplies" 1.98 0.18 1.63 4.6 "Senior" "IT" 35 30 "Male" 131950 19691 112259
+"284" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "Sales" 22 21 "Male" 155750 44535 111215
+"285" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Junior" "Sales" 8 3 "Male" 73266 17108 56158
+"286" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "IT" 12 0 "Female" 105000 9618 95382
+"287" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Expert" "Sales" 12 10 "Female" 103994 27659 76335
+"288" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "Sales" 19 18 "Male" 122100 23404 98696
+"289" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Expert" "IT" 26 24 "Female" 73300 9128 64172
+"290" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "IT" 42 40 "Male" 143250 16285 126965
+"291" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "IT" 22 15 "Male" 166800 11514 155286
+"292" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Junior" "Sales" 4 3 "Male" 80139 10569 69570
+"293" 1765 "Kuhne & Nagel Intl" "Switzerland" "Transportation" 4.46 0 1.91 2.91 "Senior" "IT" 29 15 "Male" 109305 6456 102849
+"294" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Junior" "Sales" 7 4 "Male" 86373 10813 75560
+"295" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "Sales" 17 3 "Male" 150480 18279 132201
+"296" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "IT" 21 9 "Male" 120806 11498 109308
+"297" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Junior" "Sales" 4 0 "Male" 92000 15962 76038
+"298" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Expert" "Sales" 19 19 "Male" 86250 11768 74482
+"299" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "IT" 38 19 "Male" 148750 11410 137340
+"300" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "IT" 42 18 "Male" 194800 13754 181046
+"301" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "IT" 20 7 "Male" 92050 3858 88192
+"302" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "Sales" 27 28 "Male" 144309 27711 116598
+"303" 1833 "Salzgitter" "Germany" "Materials" 4.98 0.07 3.99 0.78 "Senior" "IT" 38 36 "Male" 119450 7991 111459
+"304" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "Sales" 45 39 "Male" 115000 19017 95983
+"305" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "Sales" 40 27 "Male" 101299 24840 76459
+"306" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "Sales" 17 16 "Male" 135585 22395 113190
+"307" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "IT" 14 14 "Male" 115313 9492 105821
+"308" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "Sales" 15 16 "Male" 137167 19576 117591
+"309" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "Sales" 34 33 "Male" 189409 51396 138013
+"310" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Junior" "IT" 7 6 "Female" 63100 6283 56817
+"311" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "IT" 52 48 "Male" 107200 19443 87757
+"312" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Junior" "Sales" 6 3 "Male" 84716 8867 75849
+"313" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Junior" "Sales" 8 1 "Male" 83600 9950 73650
+"314" 1846 "Basler Kantonalbank" "Switzerland" "Banking" 0.73 0.05 16.57 0.43 "Senior" "IT" 31 19 "Male" 150564 13286 137278
+"315" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Junior" "Sales" 2 0 "Male" 78000 9260 68740
+"316" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Junior" "Sales" 11 3 "Female" 74692 8281 66411
+"317" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Expert" "Sales" 10 7 "Male" 105128 26399 78729
+"318" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Expert" "IT" 11 9 "Male" 83001 7693 75308
+"319" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Senior" "Sales" 25 18 "Male" 181257 26620 154637
+"320" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Junior" "Sales" 7 2 "Male" 91300 17912 73388
+"321" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Senior" "IT" 21 18 "Male" 101100 12288 88812
+"322" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Senior" "IT" 28 27 "Male" 115800 11875 103925
+"323" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Junior" "Sales" 8 4 "Male" 84500 17251 67249
+"324" 1869 "AVA" "Germany" "Retailing" 7.04 0.02 1.29 1.22 "Senior" "IT" 43 43 "Male" 205500 18396 187104
+"325" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "Sales" 40 41 "Male" 141500 12856 128644
+"326" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "Sales" 38 38 "Male" 231545 37738 193807
+"327" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "Sales" 22 20 "Male" 144640 37282 107358
+"328" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "IT" 32 32 "Male" 124309 8451 115858
+"329" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Junior" "Sales" 2 2 "Male" 89516 25023 64493
+"330" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "Sales" 38 22 "Male" 114500 23405 91095
+"331" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "IT" 46 40 "Male" 77202 7537 69665
+"332" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "IT" 31 27 "Male" 163200 13762 149438
+"333" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Expert" "Sales" 12 9 "Female" 71065 17913 53152
+"334" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "Sales" 25 21 "Male" 145028 22923 122105
+"335" 1873 "Bayerische Immobilien" "Germany" "Diversified financials" 0.42 0.16 2.14 3.01 "Senior" "IT" 42 25 "Male" 101738 14204 87534
+"336" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "Sales" 20 16 "Male" 173200 38224 134976
+"337" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "Sales" 23 2 "Male" 146500 17109 129391
+"338" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Junior" "Sales" 6 2 "Male" 84240 22035 62205
+"339" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Junior" "IT" 4 1 "Male" 72500 6875 65625
+"340" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Junior" "Sales" 1 0 "Male" 88000 20694 67306
+"341" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Junior" "Sales" 4 4 "Male" 92700 10014 82686
+"342" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "IT" 28 17 "Male" 81700 4083 77617
+"343" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Junior" "IT" 8 3 "Female" 78500 5274 73226
+"344" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "IT" 35 35 "Male" 100351 11435 88916
+"345" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "Sales" 26 27 "Male" 142500 24680 117820
+"346" 1887 "SPAR Handels" "Germany" "Food markets" 6.84 -0.4 1.64 0.4 "Senior" "IT" 30 19 "Male" 151292 17670 133622
+"347" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "IT" 24 19 "Male" 113068 7209 105859
+"348" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "Sales" 33 31 "Male" 109785 18652 91133
+"349" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "Sales" 28 23 "Male" 126933 12664 114269
+"350" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Expert" "IT" 14 8 "Male" 100102 10032 90070
+"351" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Junior" "Sales" 3 3 "Female" 92000 21489 70511
+"352" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Expert" "Sales" 14 7 "Female" 109650 28467 81183
+"353" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Expert" "IT" 30 23 "Male" 74000 2980 71020
+"354" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "IT" 18 18 "Male" 126300 10935 115365
+"355" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "Sales" 36 38 "Male" 151445 18391 133054
+"356" 1912 "Investkredit Bank" "Austria" "Banking" 1.22 0.03 14.16 0.57 "Senior" "IT" 27 19 "Male" 103275 6942 96333
+"357" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "IT" 39 36 "Female" 137000 17124 119876
+"358" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Expert" "Sales" 10 9 "Male" 100135 15022 85113
+"359" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "Sales" 13 7 "Male" 129676 17331 112345
+"360" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "IT" 16 14 "Male" 108262 12228 96034
+"361" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "Sales" 28 25 "Male" 111751 21379 90372
+"362" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Expert" "Sales" 11 1 "Male" 118700 17176 101524
+"363" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Junior" "IT" 4 2 "Female" 77500 5228 72272
+"364" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "IT" 39 9 "Male" 183800 25785 158015
+"365" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Senior" "Sales" 20 9 "Male" 116518 20332 96186
+"366" 1947 "Axel Springer" "Germany" "Media" 2.92 0.07 1.63 3.41 "Expert" "IT" 13 8 "Male" 78182 6109 72073
+"367" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "Sales" 30 23 "Male" 175000 27675 147325
+"368" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "Sales" 25 15 "Male" 114778 17047 97731
+"369" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "Sales" 17 18 "Female" 122960 22099 100861
+"370" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Expert" "IT" 25 22 "Female" 62884 4296 58588
+"371" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Expert" "Sales" 22 7 "Male" 98510 12630 85880
+"372" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "Sales" 40 40 "Male" 119700 30971 88729
+"373" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Junior" "IT" 5 3 "Male" 69200 7367 61833
+"374" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "IT" 46 46 "Male" 100600 13204 87396
+"375" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "Sales" 16 16 "Male" 134550 24686 109864
+"376" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Senior" "IT" 39 35 "Male" 107309 5942 101367
+"377" 1965 "Valiant Holding" "Switzerland" "Banking" 0.44 0.06 12.65 1.28 "Junior" "IT" 8 4 "Male" 81035 7904 73131
+"378" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "Sales" 20 4 "Male" 132261 28131 104130
+"379" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "Sales" 28 36 "Male" 91412 20554 70858
+"380" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Expert" "IT" 15 8 "Male" 81500 8826 72674
+"381" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "Sales" 27 27 "Male" 156938 20490 136448
+"382" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Expert" "Sales" 13 10 "Female" 103750 13709 90041
+"383" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "IT" 20 20 "Male" 122400 15515 106885
+"384" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "IT" 37 35 "Male" 99000 6178 92822
+"385" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "IT" 14 4 "Male" 105260 6905 98355
+"386" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "Sales" 38 38 "Male" 114596 21640 92956
+"387" 1967 "BayWa" "Germany" "Food drink & tobacco" 5.62 0.03 2.36 0.67 "Senior" "IT" 27 23 "Male" 172505 20151 152354
+"388" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "Sales" 18 18 "Female" 129000 23717 105283
+"389" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "Sales" 25 25 "Female" 140096 19653 120443
+"390" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Junior" "Sales" 2 2 "Male" 88400 11848 76552
+"391" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "IT" 28 26 "Male" 155500 12429 143071
+"392" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "Sales" 21 8 "Male" 105890 20100 85790
+"393" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "Sales" 19 5 "Male" 165000 32102 132898
+"394" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "IT" 23 23 "Male" 108200 10745 97455
+"395" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "IT" 51 51 "Male" 57800 4262 53538
+"396" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Expert" "Sales" 9 9 "Male" 95642 17854 77788
+"397" 1994 "Mobilcom" "Germany" "Telecommunications services" 2.16 -3.62 8.67 1.42 "Senior" "IT" 14 11 "Male" 121946 10579 111367
